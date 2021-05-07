@@ -1,6 +1,6 @@
 <!--pages/user_login/user_login.wxml-->
 <view class="main">
-  <image class="bg sd" style="height:{{windowHeight}}px; width:{{windowWidth}}" src="../static/imgs/background.png"></image>
+  <image class="bg sd" style="height:100%; width:100%" src="../static/imgs/background.png"></image>
   <view class="welcometitle">
     <text class="iconfont icon-mail"></text>
     <text class="welcome">欢迎使用我们的邮箱系统</text>
